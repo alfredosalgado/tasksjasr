@@ -319,9 +319,9 @@ npm start
 
 ## 📞 Soporte
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/tu-usuario/tasksjasr/issues)
-- 💬 **Discusiones**: [GitHub Discussions](https://github.com/tu-usuario/tasksjasr/discussions)
-- 📧 **Email**: tu-email@ejemplo.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/alfredosalgado/tasksjasr/issues)
+- 💬 **Discusiones**: [GitHub Discussions](https://github.com/alfredosalgado/tasksjasr/discussions)
+- 📧 **Email**: alfresal88@gmail.com
 
 ---
 
