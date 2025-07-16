@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "tasksjasr": {
+      "command": "node",
+      "args": ["C:/Users/Alfredo/Desktop/mcp/server.js"],
+      "cwd": "C:/Users/Alfredo/Desktop/mcp",
+      "env": {
+        "NODE_ENV": "production",
+        "TASKSJASR_WORKING_DIR": "C:/Users/Alfredo/Desktop",
+        "TASKSJASR_FILE_PATH": "tasks.json"
+      }
+    }
+  }
+}
