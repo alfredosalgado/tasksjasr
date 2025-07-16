@@ -37,7 +37,7 @@ TasksJASR es un servidor **Model Context Protocol (MCP)** que revoluciona la ges
 ### 1️⃣ Clonar o Descargar
 ```bash
 # Opción 1: Clonar repositorio
-git clone https://github.com/tu-usuario/tasksjasr.git
+git clone https://github.com/alfredosalgado/tasksjasr.git
 cd tasksjasr
 
 # Opción 2: Descargar y extraer ZIP
